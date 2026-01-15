@@ -83,7 +83,8 @@ Business insights are clearly highlighted to support decision-making.
 ---
 
 ## Dashboard Preview
-![Dashboard Overview](Screenshots/Dashboard Screenshot.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
+
 
 ---
 
